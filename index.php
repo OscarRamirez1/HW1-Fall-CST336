@@ -9,7 +9,7 @@
     <body style = "background-color: #003434; color: white;">
         <header>
             <h1>The Turing Machine</h1>
-            <hr "width: 50%">
+            <hr >
         </header>
         
         <main>
