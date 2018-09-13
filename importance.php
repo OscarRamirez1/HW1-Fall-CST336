@@ -7,13 +7,13 @@
         <link href = "css/stylesheet.css" rel = "stylesheet" type = "text/css" />
     </head>
     
-    <body style = "background-color: #4C636B; color: white;">
+    <body style = "background-color: #003434; color: white;">
         <header>
-            <h1><strong>The Motive Behind the Turing Machine</strong></h1>
+            <h1><strong>The Motive that Introduced the Turing Machine</strong></h1>
              <nav>
-                <a href = "person.php"><strong>The Mastermind</strong></a>
+                <a href = "person.php"><strong>Alan</strong></a>
                 <a href = "index.php" ><strong>Home</strong></a>
-                <a href = "how.php"><strong>Components</strong></a>
+                <a href = "how.php"><strong>Instructions</strong></a>
             </nav>
             <hr>
         </header>
@@ -35,13 +35,23 @@
                 <h3 class = "heading">Turing Machine(Bombe)</h3>
                 <ul>
                     <li class = "list"> With Alan Turing's invention of the Turing Machine Britain was able to decode the Enigma messages.</li>
-                    <li class = "list"> It was made for calculation purposes mainly and also to decode messages on paper tape.</li>
+                    <li class = "list"> It was mainly made for calculation purposes and to decode messages on paper tape.</li>
                     <li class = "list"> Alan had lost so much to get so far with this machine and he made it work.</li>
                     <li class = "list"> With his efforts we were able to create the computers we have today.</li>
                 </ul>
                 <img class = "machines" src = "img/Turing_Machine2.jpg" width = "500" height = "400" alt = "Turing Machine" />
             </section>
         </main>
+        
+        <footer>
+            <br />
+            <hr>
+                Internet Programming CST336 2018 &copy; Ramirez <br />
+                <strong> Disclaimer: </strong> The information in this webiste is fictitous. <br />
+                It is for academics purposes only. <br />
+                <img width = "100" height = "50" src = "img/CSUMB_Logo.png" alt = "logo" />
+        </footer>
+        
     </body>
     
 </html>

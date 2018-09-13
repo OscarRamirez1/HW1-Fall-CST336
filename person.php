@@ -7,13 +7,13 @@
         <link href = "css/stylesheet.css" rel = "stylesheet" type = "text/css" />
     </head>
     
-    <body style = "background-color: #4C636B; color: white;">
+    <body style = "background-color: #003434; color: white;">
         <header>
             <h1><strong>The Mastermind Behind the Turing Machine</strong></h1>
              <nav>
                 <a href = "importance.php"><strong>Motive</strong></a>
                 <a href = "index.php" ><strong>Home</strong></a>
-                <a href = "how.php"><strong>Components</strong></a>
+                <a href = "how.php"><strong>Instructions</strong></a>
             </nav>
             <hr>
         </header>
@@ -30,8 +30,8 @@
                         <td class = "info">
                             <ul>
                                 <li>Alan Mathison Turing was born on June 1912 in Paddington, London.</li>
-                                <li>For most of Alan's life him and his brother were fostered in mnay different homes throughout their lives.</li>
-                                <li>As for his love life, he was very isolated and was an introvert but had no affection towards women.</li>
+                                <li>For most of Alan's life him and his brother were fostered in many different homes throughout their lives.</li>
+                                <li>As for his love life, he was very isolated but had no affection towards women.</li>
                                 <li>Alan was always passionate about sciences and chemistry but always considered himself a failure due to how diverse the 19th century was.</li>
                             </ul>
                         </td>
@@ -45,8 +45,8 @@
                             <ul>
                                 <li>In 1936, Alan turing was studying for his Ph.D in mathematics when he published
                                 a paper on <q><i>Computable Numbers, with an application to the Entscheidungs problem.</i></q></li>
-                                <li>In this paper he had announced his idea about a theoritcal machine that can could solve any problem on paper tape. In his theory he had mentioned that this machine could
-                                do square roots, sudoku puzzles, basically making it a universal machine.</li>
+                                <li>In this paper he had announced his idea about a theoritcal machine that can perform algorithmic functions on paper tape. In his theory he had mentioned that this machine could
+                                do square roots, sudoku puzzles, basically making it a universal computing machine.</li>
                                 <li>His theory soon came to be the foundation of computer science. </li>
                             </ul>
             

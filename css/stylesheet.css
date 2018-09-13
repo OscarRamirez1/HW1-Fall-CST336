@@ -10,11 +10,11 @@ footer{
     color: lightblue;
 }
 #header{
-    background-color: #4F1D91;
+    background-color: red;
 }
 #photo{
     text-align: center;
-    background-color: lightgrey;
+    background-color: green;
     color: black;
 }
 #alan{
@@ -23,7 +23,7 @@ footer{
     color: black;
 }
 .toggle{
-    background-color: #07394A;
+    background-color: #964B00;
 }
 nav a{
     padding: 15px;
@@ -39,7 +39,7 @@ nav a:hover {
 }
 .info{
     text-align: left;
-    background-color: lightgrey;
+    background-color: green;
     color: black;
     width: "30%";
 }

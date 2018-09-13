@@ -6,10 +6,10 @@
         <link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
     </head>
         
-    <body style = "background-color: #4C636B; color: white;">
+    <body style = "background-color: #003434; color: white;">
         <header>
             <h1>The Turing Machine</h1>
-            <hr>
+            <hr "width: 50%">
         </header>
         
         <main>
@@ -18,12 +18,13 @@
                     Welcome! <br />
                     <p>Have you ever wondered how Britain gained such a big advantage during World War II?</p>
                     <p>Well thanks to this website you will gain some insight on how they got ahead and what machine enabled them to get ahead.</p>
+                    <h3> Click on a Photo to Get Started!</h3>
                 </section>
                 
                 <table style = "width: 100%">
                     <tr id = "header">
                         <th><strong>Why was it created?</strong></th>
-                        <th><strong>Components of the Turing Machine</strong></th>
+                        <th><strong>Instructions on Using the Turing Machine</strong></th>
                         <th><strong>Who was its creator?</strong></th>
                     </tr>
                     
